@@ -434,6 +434,106 @@ const siteData = {
       { name: "Chiedza Mapondera", image: "https://images.unsplash.com/photo-1517365830460-955ce3ccd263?w=100&h=100&fit=crop&crop=face", role: "School Administrator", text: "Wonderful experience. The team was courteous, professional, and efficient.", rating: 5, date: "2024-12-10", projectType: "Institutional" },
     ],
   },
+  careers: {
+    heroTitle: [
+      { text: "Join " },
+      { text: "Elpro.", highlight: true },
+    ],
+    heroSubtitle:
+      "We are growing our team of hygiene professionals. If you are passionate about quality, reliability, and making a difference in public health, we want to hear from you.",
+    heroImage: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1920&q=80",
+    cultureTitle: "Why Work With Us?",
+    cultureItems: [
+      {
+        iconName: "ShieldCheck",
+        title: "Meaningful Work",
+        desc: "Our products protect people in hospitals, schools, and food factories. Your work directly contributes to public health and safety.",
+      },
+      {
+        iconName: "Rocket",
+        title: "Growing Company",
+        desc: "500+ facilities and expanding. Growth means opportunity. New roles, new responsibilities, new challenges every quarter.",
+      },
+      {
+        iconName: "Leaf",
+        title: "Sustainability Focus",
+        desc: "Our eco-friendly range is expanding. Join a company that cares about the environment as much as the bottom line.",
+      },
+    ],
+    cultureImage: "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=800&q=80",
+    cultureImageAlt: "Elpro Hygienics team and warehouse operations",
+    cultureTagline: "Clean That Matters.",
+    cultureTaglineDesc:
+      "We do not just sell products. We protect facilities, prevent infections, and ensure compliance. Every delivery makes a difference.",
+    benefits: [
+      { iconName: "CurrencyDollar", title: "Competitive Salary", desc: "Market-rate compensation with quarterly performance bonuses." },
+      { iconName: "GraduationCap", title: "Product Training", desc: "Comprehensive training on hygiene standards, product chemistry, and application methods." },
+      { iconName: "Heart", title: "Health Coverage", desc: "Medical aid contribution for you and your dependents." },
+      { iconName: "Car", title: "Company Vehicle", desc: "Field staff receive a fully equipped company vehicle for client visits." },
+      { iconName: "Users", title: "Team Culture", desc: "Supportive team environment with regular team meetings and social events." },
+      { iconName: "ShieldCheck", title: "Safety Gear", desc: "Full PPE and safety equipment provided for all warehouse and field roles." },
+    ],
+    positions: [
+      {
+        id: 1,
+        title: "Hygiene Consultant",
+        department: "Sales",
+        type: "Full-Time",
+        location: "Harare",
+        description:
+          "Visit client facilities, assess hygiene needs, recommend products, and manage ongoing supply relationships. A consultative sales role focused on building long-term partnerships.",
+        requirements: [
+          "2+ years in B2B sales, preferably FMCG or chemical supply",
+          "Understanding of hygiene standards (HACCP, ISO preferred)",
+          "Strong client relationship management skills",
+          "Driver's licence and willingness to travel across Harare",
+          "Self-motivated with strong organisational skills",
+        ],
+      },
+      {
+        id: 2,
+        title: "Warehouse & Logistics Coordinator",
+        department: "Operations",
+        type: "Full-Time",
+        location: "Harare",
+        description:
+          "Manage warehouse inventory, coordinate delivery schedules, and ensure accurate order fulfilment. Maintain stock levels and liaise with the sales team on supply planning.",
+        requirements: [
+          "2+ years in warehouse or logistics management",
+          "Inventory management system experience",
+          "Forklift operation certification preferred",
+          "Strong attention to detail and organisational skills",
+          "Ability to handle physical stock movement",
+        ],
+      },
+      {
+        id: 3,
+        title: "Marketing & Digital Coordinator",
+        department: "Marketing",
+        type: "Full-Time",
+        location: "Harare",
+        description:
+          "Manage Elpro's digital presence, create marketing materials, coordinate campaigns, and support the sales team with product collateral and client presentations.",
+        requirements: [
+          "Degree in Marketing, Communications, or related field",
+          "Experience with social media management and content creation",
+          "Graphic design skills (Canva, Adobe Creative Suite)",
+          "Strong writing and communication abilities",
+          "Understanding of B2B marketing principles",
+        ],
+      },
+    ],
+    generalApplicationTitle: "Passionate About Hygiene & Quality?",
+    generalApplicationSubtitle:
+      "We are always open to meeting dedicated professionals. If you think you would be a great fit for our team, send us your CV.",
+    generalApplicationCta: "Send Your CV",
+  },
+
+  footer: {
+    description:
+      "Zimbabwe's trusted supplier of professional hygiene products and cleaning solutions for hospitals, hotels, offices, and food processing facilities.",
+    copyright: "Elpro Hygienics (Pvt) Ltd",
+  },
 };
 
 export default siteData;
