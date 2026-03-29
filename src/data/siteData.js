@@ -80,7 +80,7 @@ const siteData = {
     ctaSecondary: "Our Products",
     trustBadge: "HACCP & ISO Compliant Products",
     backgroundImages: [
-      { url: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=1920&q=80", alt: "Professional cleaning and hygiene" },
+      { url: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1920&q=80", alt: "Professional cleaning and hygiene" },
       { url: "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=1920&q=80", alt: "Clean facility environment" },
     ],
   },
@@ -127,7 +127,7 @@ const siteData = {
 
   featuredProjects: [
     {
-      image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+      image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
       title: "Parirenyatwa Hospital Supply",
       category: "Healthcare",
     },
@@ -137,7 +137,7 @@ const siteData = {
       category: "Hospitality",
     },
     {
-      image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+      image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
       title: "Innscor Food Processing",
       category: "Food Industry",
     },
@@ -149,7 +149,7 @@ const siteData = {
       { text: "Without", highlight: true },
       { text: " Compromise." },
     ],
-    image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
     imageAlt: "Elpro Hygienics products and solutions",
     experienceYears: "500+",
     experienceLabel: "Facilities Supplied",
@@ -215,7 +215,7 @@ const siteData = {
     ],
     heroSubtitle:
       "Elpro Hygienics was founded on the belief that professional hygiene should be accessible, reliable, and compliant. We supply the products that keep Zimbabwe's facilities safe.",
-    storyImage: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+    storyImage: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
     storyImageAlt: "Elpro Hygienics product range",
     storyProjectCount: "500+",
     storyProjectLabel: "Facilities Supplied",
@@ -236,7 +236,7 @@ const siteData = {
       { iconName: "Heart", title: "Partnership", desc: "We audit, recommend, train, and supply. We are invested in your hygiene outcomes, not just your orders." },
     ],
     team: [
-      { name: "Sales Team", role: "Hygiene Consultants", image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=400&q=80" },
+      { name: "Sales Team", role: "Hygiene Consultants", image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=400&q=80" },
       { name: "Logistics Team", role: "Supply & Distribution", image: "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&q=80" },
     ],
     milestones: [
@@ -263,7 +263,7 @@ const siteData = {
         iconName: "FirstAid",
         title: "Healthcare Hygiene",
         slug: "healthcare-hygiene",
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
         desc: "Hospital-grade disinfectants, antiseptic hand wash, instrument sterilisers, and surface sanitisers. Formulated for healthcare environments where infection control is life or death.",
         features: [
           "WHO-compliant alcohol-based hand sanitisers",
@@ -293,7 +293,7 @@ const siteData = {
         iconName: "CookingPot",
         title: "Food Industry Solutions",
         slug: "food-industry",
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
         desc: "Food-safe sanitisers, kitchen degreasers, conveyor cleaners, and CIP solutions. HACCP-compliant products for food processing, catering, and cold chain facilities.",
         features: [
           "Food-contact surface sanitisers",
@@ -323,7 +323,7 @@ const siteData = {
         iconName: "Briefcase",
         title: "Washroom Hygiene Systems",
         slug: "washroom-systems",
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
         desc: "Complete washroom solutions: soap dispensers, paper towel systems, air fresheners, sanitary bins, and toilet seat sanitisers. Hardware plus refill supply service.",
         features: [
           "Touchless soap and sanitiser dispensers",
@@ -369,7 +369,7 @@ const siteData = {
         category: "Healthcare",
         location: "Harare, Zimbabwe",
         year: "2024",
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
         desc: "Complete infection control product supply for Zimbabwe's largest referral hospital. Hand sanitisers, surface disinfectants, and clinical waste chemicals across 20+ departments.",
         services: ["Healthcare Hygiene"],
       },
@@ -389,7 +389,7 @@ const siteData = {
         category: "Food Industry",
         location: "Harare, Zimbabwe",
         year: "2024",
-        image: "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
         desc: "HACCP-compliant cleaning chemical supply for one of Zimbabwe's largest food processing companies. CIP solutions, food-safe sanitisers, and pest control integration.",
         services: ["Food Industry Solutions", "Pest Control Solutions"],
       },

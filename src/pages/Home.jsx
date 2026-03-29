@@ -162,7 +162,7 @@ function HeroSection() {
               <h1
                 className="font-heading font-bold leading-[0.88] tracking-tight"
                 style={{
-                  fontSize: word === '/' ? 'clamp(1rem, 4vw, 3rem)' : 'clamp(2.5rem, 10vw, 8rem)',
+                  fontSize: word === '/' ? 'clamp(1rem, 4vw, 3rem)' : 'clamp(2.5rem, 7vw, 4.5rem)',
                   color: word === 'HERE.' ? '#4ade80' : word === '/' ? 'rgba(255,255,255,0.05)' : '#ffffff',
                   fontWeight: word === '/' ? 300 : 700,
                 }}
@@ -310,7 +310,7 @@ function AboutSplit() {
             <div className="relative">
               <div className="overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"
+                  src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80"
                   alt="Professional cleaning products"
                   className="w-full aspect-[4/5] object-cover object-center"
                   loading="lazy"
@@ -350,11 +350,11 @@ function ServicesGrid() {
   const { servicesPreview } = siteData;
 
   const serviceImages = [
-    'https://images.unsplash.com/photo-1584813539890-30373c796e72?w=600&q=80',
+    'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80',
     'https://images.unsplash.com/photo-1563453392212-326f5e854473?w=600&q=80',
-    'https://images.unsplash.com/photo-1584813539890-30373c796e72?w=600&q=80',
+    'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80',
     'https://images.unsplash.com/photo-1563453392212-326f5e854473?w=600&q=80',
-    'https://images.unsplash.com/photo-1584813539890-30373c796e72?w=600&q=80',
+    'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80',
     'https://images.unsplash.com/photo-1563453392212-326f5e854473?w=600&q=80',
   ];
 
@@ -654,7 +654,7 @@ function CTASection() {
           viewport={{ once: true, margin: '-80px' }}
           transition={{ duration: 0.8 }}
         >
-          <h2 className="font-heading font-bold text-white leading-[0.88] mb-8" style={{ fontSize: 'clamp(2.5rem, 8vw, 7rem)' }}>
+          <h2 className="font-heading font-bold text-white leading-[0.88] mb-8" style={{ fontSize: 'clamp(2.5rem, 7vw, 4.5rem)' }}>
             CLEAN<br />
             <span style={{ color: '#4ade80' }}>STARTS</span> HERE.
           </h2>
